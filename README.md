@@ -1,4 +1,4 @@
-# handwritten_digit_recognition
+# digit_recognition
 
 A web-based application for handwritten digit recognition using a Convolutional Neural Network (CNN) trained on the MNIST dataset. Users can draw a digit on a canvas, and the app will predict the digit in real-time.
 
