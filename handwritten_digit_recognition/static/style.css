@@ -1,0 +1,34 @@
+/* static/style.css */
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+/* Adjusted font size for the heading */
+h1 {
+  font-size: 1.5rem; /* Smaller font size */
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
