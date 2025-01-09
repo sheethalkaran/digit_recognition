@@ -19,14 +19,14 @@ This project uses a CNN model to classify handwritten digits (0-9) drawn on an H
 
 ## Steps
 
-### **Train the Model:**
+### Train the Model:
    The repository includes a pre-trained model (`mnist_cnn_model.keras`). If you'd like to train the model yourself, run:
    bash
    python model.py
    
    This will save a trained model as `mnist_cnn_model.keras`.
 
-### Run the Application:**
+### Run the Application:
    Start the Flask application by running:
    bash
    python app.py
