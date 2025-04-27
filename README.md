@@ -3,7 +3,7 @@
 A web-based application for handwritten digit recognition using a **Convolutional Neural Network (CNN)** trained on the MNIST dataset. Users can draw a digit on a canvas, and the app will predict the digit in real-time.
 
 ## Overview
-This project uses a CNN model to classify handwritten digits (0-9) drawn on an HTML canvas. The model is trained on the MNIST dataset, and predictions are served through a Flask backend. The frontend is built with HTML, CSS, JavaScript, and Bootstrap.
+This project uses a CNN model to classify handwritten digits drawn on an HTML canvas. The model is trained on the MNIST dataset, and predictions are served through a Flask backend. The frontend is built with HTML, CSS, JavaScript, and Bootstrap.
 
 ## Technologies Used
 - **Python**
@@ -33,7 +33,7 @@ This project uses a CNN model to classify handwritten digits (0-9) drawn on an H
    
 
 ## Usage
-- Draw a Digit: Use the canvas to draw a digit (0-9).
+- Draw a Digit: Use the canvas to draw a digit.
 - Predict: Click "Predict Digit" to see the app's prediction.
 - Clear Canvas: Use the "Clear Canvas" button to reset.
 
